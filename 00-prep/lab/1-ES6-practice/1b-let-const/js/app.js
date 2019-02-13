@@ -37,6 +37,7 @@ function displayPics(){
   }
   console.log(rando);
   // TODO: In a sentence or two, explain why the previous line of code threw an error when we changed the constiable declaration from `const to `const`.
+  // the previous line threw an error when we changed the const var bc const cannot be changed, the name cann not be reassigned and the value cannot be reassigned i think thats why at least.
   // PUT YOUR RESPONSE IN THIS COMMENT
   console.log(viewed);
 
